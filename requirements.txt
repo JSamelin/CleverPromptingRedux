@@ -42,3 +42,8 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=6,<7
 bqplot
+
+# OpenAI prompting workshop notebooks
+openai>=1.68,<4
+pydantic>=2,<3
+tiktoken>=0.9,<1
